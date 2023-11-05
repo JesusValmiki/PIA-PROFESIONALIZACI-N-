@@ -1,0 +1,172 @@
+[
+    {
+        "id": "iOS-01",
+        "titulo": "AirPods",
+        "imagen": "./img/iOS/AirPods.jpg",
+        "categoria": {
+            "nombre": "iOS",
+            "id": "iOS"
+        },
+        "precio": 4599
+    },
+    {
+        "id": "iOS-02",
+        "titulo": "Apple Watch",
+        "imagen": "./img/iOS/applewatch.jfif",
+        "categoria": {
+            "nombre": "iOS",
+            "id": "iOS"
+        },
+        "precio": 5499
+    },
+    {
+        "id": "iOS-03",
+        "titulo": "iPad",
+        "imagen": "./img/iOS/ipad.jfif",
+        "categoria": {
+            "nombre": "iOS",
+            "id": "iOS"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "iOS-04",
+        "titulo": "Mac Book",
+        "imagen": "./img/iOS/macbook.png",
+        "categoria": {
+            "nombre": "iOS",
+            "id": "iOS"
+        },
+        "precio": 4999
+    },
+    {
+        "id": "iOS-05",
+        "titulo": "Air Tag",
+        "imagen": "./img/iOS/airtag.jfif",
+        "categoria": {
+            "nombre": "iOS",
+            "id": "iOS"
+        },
+        "precio": 1699
+    },
+    {
+        "id": "Microsoft-01",
+        "titulo": "Windows 11",
+        "imagen": "./img/Microsoft/windows11.png",
+        "categoria": {
+            "nombre": "Microsoft",
+            "id": "Microsoft"
+        },
+        "precio": 135
+    },
+    {
+        "id": "Microsoft-02",
+        "titulo": "Juegos",
+        "imagen": "./img/Microsoft/juegos.jfif",
+        "categoria": {
+            "nombre": "Microsoft",
+            "id": "Microsoft"
+        },
+        "precio": 549
+    },
+    {
+        "id": "Microsoft-03",
+        "titulo": "onedrive",
+        "imagen": "./img/Microsoft/onedrive.png",
+        "categoria": {
+            "nombre": "Microsoft",
+            "id": "Microsoft"
+        },
+        "precio": 1749
+    },
+    {
+        "id": "Microsoft-04",
+        "titulo": "Microsoft Defender",
+        "imagen": "./img/Microsoft/microsoftDefender.png",
+        "categoria": {
+            "nombre": "Microsoft",
+            "id": "Microsoft"
+        },
+        "precio": 129
+    },
+    {
+        "id": "Microsoft-05",
+        "titulo": "Microsoft Office 365",
+        "imagen": "./img/Microsoft/descarga.jfif",
+        "categoria": {
+            "nombre": "Microsoft",
+            "id": "Microsoft"
+        },
+        "precio": 3059
+    },
+    {
+        "id": "Microsoft-06",
+        "titulo": "Xbox",
+        "imagen": "./img/Microsoft/xbox.jfif",
+        "categoria": {
+            "nombre": "Microsoft",
+            "id": "Microsoft"
+        },
+        "precio": 9152
+    },
+    {
+        "id": "Huawei-01",
+        "titulo": "Huawei Freebuds Pro 3",
+        "imagen": "./img/Huawei/huawei-freebuds-pro-3.webp",
+        "categoria": {
+            "nombre": "Huawei",
+            "id": "Huawei"
+        },
+        "precio": 3009
+    },
+    {
+        "id": "Huawei-02",
+        "titulo": "Huawei Matebook X Pro",
+        "imagen": "./img/Huawei/huawei-matebook-x-pro.webp",
+        "categoria": {
+            "nombre": "Huawei",
+            "id": "Huawei"
+        },
+        "precio": 39900
+    },
+    {
+        "id": "Huawei-03",
+        "titulo": "Huawei Matepad 11.5",
+        "imagen": "./img/Huawei/huawei-matepad-11.webp",
+        "categoria": {
+            "nombre": "Huawei",
+            "id": "Huawei"
+        },
+        "precio": 13900
+    },
+    {
+        "id": "Huawei-04",
+        "titulo": "Huawei P60 Pro",
+        "imagen": "./img/Huawei/huawei-p60-pro.webp",
+        "categoria": {
+            "nombre": "Huawei",
+            "id": "Huawei"
+        },
+        "precio": 20799
+    },
+    {
+        "id": "Huawei-05",
+        "titulo": "Huawei Watch",
+        "imagen": "./img/Huawei/huawei-watch.webp",
+        "categoria": {
+            "nombre": "Huawei",
+            "id": "Huawei"
+        },
+        "precio": 9999
+    },
+    {
+        "id": "Huawei-05",
+        "titulo": "Huawei WiFi Mesh 7",
+        "imagen": "./img/Huawei/huawei-wifi-mesh-7.webp",
+        "categoria": {
+            "nombre": "Huawei",
+            "id": "Huawei"
+        },
+        "precio": 3729
+    }
+]
